@@ -24,7 +24,7 @@ const COMMITTEE_CONFIG = {
           {
             name: "Dr. Nabanita Das",
             role: "Department of CSE Data Science",
-            organization: "Co-coordinator, AICTE VAANI Workshopb",
+            organization: "Co-coordinator, AICTE VAANI Workshop",
             image: "/nabanita.jpg?height=200&width=200",
             email: "robert@example.com",
             linkedin: "#",
