@@ -43,7 +43,7 @@ const COMMITTEE_CONFIG = {
         title: "Workshop Committee",
         members: [
           {
-            name: "Sardar Taranjit Singhr",
+            name: "Sardar Taranjit Singh",
             role: "Managing Director",
             organization: "JIS Group",
             image: "/placeholder.svg?height=200&width=200",
@@ -75,7 +75,7 @@ const COMMITTEE_CONFIG = {
             linkedin: "#",
           },
           {
-            name: "Ms. Jaspreet Kaure",
+            name: "Ms. Jaspreet Kaur",
             role: "Director",
             organization: "JIS Group",
             image: "/placeholder.svg?height=200&width=200",

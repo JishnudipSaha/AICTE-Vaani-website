@@ -53,7 +53,7 @@ export function About() {
           <div className="space-y-8">
             <div className="inline-flex items-center rounded-full border px-3 py-1 text-sm">{content.badge}</div>
             <h2 className="text-3xl md:text-5xl font-bold tracking-tight">{content.headline}</h2>
-            <p className="text-lg text-muted-foreground">{content.description}</p>
+            <p className="text-lg text-muted-foreground text-justify">{content.description}</p>
             <div className="flex flex-col gap-6">
               {/* About Vaani Card */}
               <div className="bg-white dark:bg-zinc-900 rounded-xl shadow p-6 border border-primary/30">
