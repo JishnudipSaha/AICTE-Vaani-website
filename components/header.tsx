@@ -34,9 +34,9 @@ export function Header() {
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container flex h-16 items-center justify-between px-4 md:px-6">
-        <Link href="/" className="flex items-center space-x-3">
-          <span className="text-2xl font-bold text-primary">{HEADER_CONFIG.logo}</span>
-          <div className="w-8 h-8 flex-shrink-0">
+        <Link href="/" className="flex items-center space-x-4">
+          <span className="text-3xl md:text-4xl font-extrabold text-primary">{HEADER_CONFIG.logo}</span>
+          <div className="w-12 h-12 md:w-16 md:h-16 flex-shrink-0">
             <img
               src={HEADER_CONFIG.logoImage || "/placeholder.svg?height=32&width=32"}
               alt="Vaani Logo"
