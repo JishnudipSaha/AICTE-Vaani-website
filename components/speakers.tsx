@@ -84,7 +84,7 @@ const SPEAKERS_CONFIG = {
       },
       {
         name: "Prof. (Dr.) Sipra Das Bit",
-        title: "Bit Professor, Department of Computer Science and Technology, IIEST, Shibpur",
+        title: "Professor, Department of Computer Science and Technology, IIEST, Shibpur",
         company: "Creative Solutions",
         bio: "Award-winning designer and creative director known for transforming user experiences across digital platforms.",
         image: "/Sipra_Das.jpg?height=300&width=300",
@@ -172,7 +172,7 @@ const SPEAKERS_CONFIG = {
       },
       {
         name: "অধ্যাপক (ড.) শিপ্রা দাস বিট",
-        title: "বিট অধ্যাপক, কম্পিউটার বিজ্ঞান ও প্রযুক্তি বিভাগ, IIEST, শিবপুর",
+        title: "অধ্যাপক, কম্পিউটার বিজ্ঞান ও প্রযুক্তি বিভাগ, IIEST, শিবপুর",
         company: "Creative Solutions",
         bio: "Award-winning designer and creative director known for transforming user experiences across digital platforms.",
         image: "/Sipra_Das.jpg?height=300&width=300",
