@@ -4,9 +4,9 @@ import './globals.css'
 import { LanguageProvider } from "@/components/language-context"
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'AICTE Vaani Workshop | NiT',
+  description: 'Application of Data Science and Machine Learning in Smart Computing',
+  generator: 'Jishnudip Saha',
 }
 
 export default function RootLayout({
